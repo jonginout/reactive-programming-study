@@ -17,7 +17,7 @@ import java.util.concurrent.ConcurrentLinkedDeque;
 import java.util.concurrent.Executors;
 
 @Slf4j
-@SpringBootApplication
+//@SpringBootApplication
 @EnableAsync
 public class FutureSpring03 {
 

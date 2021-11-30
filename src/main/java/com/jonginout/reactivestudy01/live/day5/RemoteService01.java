@@ -15,8 +15,8 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.AsyncRestTemplate;
 import org.springframework.web.context.request.async.DeferredResult;
 
-@Slf4j
-@SpringBootApplication
+//@Slf4j
+//@SpringBootApplication
 public class RemoteService01 {
     /**
      * 너무 많은 쓰레드 개수를 두는것 도 방법은 아니다 : 컨텍스트 스위칭에 대한 비용이 너무 크
